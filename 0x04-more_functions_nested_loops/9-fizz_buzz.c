@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Fizzbuzz, Fizz, Buzz
- * @i: Parameter
+ * main - Fizzbuzz
  * Return: 0
  */
 
