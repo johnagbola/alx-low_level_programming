@@ -3,9 +3,8 @@
 #include "main.h"
 /**
  * malloc_checked - A function that allocates memory using malloc
- * @a: integer variable dat holds the memory size
- * Author: Sammykingx
- * Return: 0 means program was successful
+ * @a: integer variable that holds the memory size
+ * Return: 0 if successful
  */
 void *malloc_checked(unsigned int a)
 {
